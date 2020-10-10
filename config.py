@@ -1,2 +1,0 @@
-token = "1147186033:AAFtbWGyVtLEZGfHboYOS1-_1dErAIa-V8E"
-userId = 1052519447 
