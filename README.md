@@ -20,4 +20,10 @@ sudo chmod 777 install.sh
 <code>
   sudo ./install.sh
 </code><br>
-<a>Then follow the instructions of the installer.</a>
+<a>Then follow the instructions of the installer.</a><br>
+<b>The next time you log into the system on SSH after installation, you should receive a notification in your telegram.</b><br>
+<h1> Uninstall </h1>
+<a> Enter the command: </a> <br>
+<code>
+  rm /etc/profile.d/ssh-to-telegram.sh
+</code><br>
