@@ -3,6 +3,7 @@ The bot notifies about successful SSH connections to the server.
 
 <h1><b>Install</b></h1>
 <h3> Debian/Ubuntu Server <br> </h3>
+<a> Create a new bot in BotFather.</a><br>
 <a> Enter the commands: </a><br>
 <code>
   sudo apt git
@@ -17,5 +18,6 @@ cd SshTelegramNotify
 sudo chmod 777 install.sh
 </code><br>
 <code>
-  ./install.sh
+  sudo ./install.sh
 </code><br>
+<a>Then follow the instructions of the installer.</a>
