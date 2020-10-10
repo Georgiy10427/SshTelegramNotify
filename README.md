@@ -1,4 +1,4 @@
 # SshTelegramNotify
 The bot notifies about successful SSH connections to the server.
 
-#Install
+<b>Install</b>
