@@ -1,19 +1,24 @@
 # SshTelegramNotify
 The bot notifies about successful SSH connections to the server.
 
-<h1><b>Install</b></h1>
-<h3> Debian/Ubuntu Server <br> </h3>
-<a> Create a new bot in BotFather.</a><br>
-<a> Enter the command: </a><br>
-<code>
-sudo apt update | sudo apt install git | git clone https://github.com/Georgiy10427/SshTelegramNotify.git | cd SshTelegramNotify | sudo chmod 777 install.sh | sudo ./install.sh 
-</code><br>
-<a>Then follow the instructions of the installer.</a><br>
-<b>The next time you log into the system on SSH after installation, you should receive a notification in your telegram.</b><br>
-<h1> Uninstall </h1>
-<a> Enter the command: </a> <br>
-<code>
+##Install
+### Debian/Ubuntu Server <br> </h3>
+Create a new bot in BotFather.
+Enter the command:
+'''
+sudo apt update 
+sudo apt install git 
+git clone https://github.com/Georgiy10427/SshTelegramNotify.git 
+cd SshTelegramNotify 
+sudo chmod 777 install.sh 
+sudo ./install.sh 
+'''
+Then follow the instructions of the installer.
+The next time you log into the system on SSH after installation, you should receive a notification in your telegram.
+## Uninstall 
+Enter the command:
+'''
   rm /etc/profile.d/ssh-to-telegram.sh
-</code><br>
-<h4> The original script: https://gist.github.com/matriphe/9a51169508f266d97313 </h4>
+'''
+> The original script: https://gist.github.com/matriphe/9a51169508f266d97313 
 The original script is not licensed.
