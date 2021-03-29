@@ -20,6 +20,6 @@ Enter the command:
 ```
   rm /etc/profile.d/ssh-to-telegram.sh
 ```
-##
-
-> The original [script](https://gist.github.com/matriphe/9a51169508f266d97313) is not licensed.
+## License
+*This software is licensed under the GPL V3.*
+> The [original script](https://gist.github.com/matriphe/9a51169508f266d97313) is not licensed.
