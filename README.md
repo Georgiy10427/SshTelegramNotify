@@ -15,4 +15,5 @@ sudo apt update | sudo apt install git | git clone https://github.com/Georgiy104
 <code>
   rm /etc/profile.d/ssh-to-telegram.sh
 </code><br>
-<h3> <a link="https://gist.github.com/matriphe/9a51169508f266d97313"> The original script. </a>  </h3>
+<h4> The original script: https://gist.github.com/matriphe/9a51169508f266d97313 </h4>
+The original script is not licensed.
