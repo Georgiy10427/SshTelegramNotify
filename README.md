@@ -6,11 +6,11 @@ The bot notifies about successful SSH connections to the server.
 <a> Create a new bot in BotFather.</a><br>
 <a> Enter the commands: </a><br>
 <code>
-sudo apt install git<br>
-git clone https://github.com/Georgiy10427/SshTelegramNotify.git <br>
-cd SshTelegramNotify <br>
-sudo chmod 777 install.sh<br>
-sudo ./install.sh
+sudo apt install git<br> \n
+git clone https://github.com/Georgiy10427/SshTelegramNotify.git <br> \n
+cd SshTelegramNotify <br> \n
+sudo chmod 777 install.sh<br> \n
+sudo ./install.sh \n
 </code><br>
 <a>Then follow the instructions of the installer.</a><br>
 <b>The next time you log into the system on SSH after installation, you should receive a notification in your telegram.</b><br>
@@ -19,3 +19,4 @@ sudo ./install.sh
 <code>
   rm /etc/profile.d/ssh-to-telegram.sh
 </code><br>
+<h3> <a link="https://gist.github.com/matriphe/9a51169508f266d97313"> The original script. </a>  </h3>
